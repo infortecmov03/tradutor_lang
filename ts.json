@@ -1,0 +1,14 @@
+{
+  "auth": {
+    "sign_in": "Nghena",
+    "sign_up": "Tumbela Xikontinente",
+    "sign_out": "Humeta",
+    "username": "Vito ra Muxumi",
+    "password": "Rito ra Vuhlayiseki",
+    "confirm_password": "Tiyisisa Rito ra Vuhlayiseki"
+  },
+  "dashboard": {
+    "overview": "Vonanisa Hinkwaswo",
+    "statistics": "Tinombolo"
+  }
+}
