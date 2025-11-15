@@ -1,0 +1,14 @@
+{
+  "auth": {
+    "sign_in": "Iniciar Sessão",
+    "sign_up": "Criar Conta",
+    "sign_out": "Terminar Sessão",
+    "username": "Nome de Utilizador",
+    "password": "Palavra-passe",
+    "confirm_password": "Confirmar Palavra-passe"
+  },
+  "dashboard": {
+    "overview": "Visão Geral",
+    "statistics": "Estatísticas"
+  }
+}
