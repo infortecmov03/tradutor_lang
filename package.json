@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "locales:generate": "node generate-locales.js",
+    "locales:validate": "node validate-locales.js",
+    "locales:missing": "node find-missing-translations.js"
+  }
+}
